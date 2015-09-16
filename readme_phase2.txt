@@ -1,6 +1,9 @@
 Python Drill: PyDrill_scripting_27_idle
 
-Title: Daily File Transfer scripting project - UI
+Title: Daily File Transfer scripting project - 
+  build UI, used database sqlite3 to store date, migrate to python 3.4
+  
+  re-use code from project / repo :  Python_DailyFileTransfer_script
 
 Scenario: 
 Your company's users create or edit a collection 
